@@ -21,7 +21,7 @@ While many of my projects are small in scope or works in progress, each one refl
 ## 🛠️ Tools & Technologies  
 
 ### Programming Languages:  
-- HTML, CSS, JavaScript, TypeScript, C, C++, C#, Python  
+- HTML, CSS, JavaScript, TypeScript, C, C++, C#, Python, Java
 
 ### Frameworks & Platforms:  
 - Node.js, Unity  
