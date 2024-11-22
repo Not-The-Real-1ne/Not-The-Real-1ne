@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Not The Real 1ne**  
 
-🎮 **Game Developer** | 🌐 **Web Developer** | 🎨 **3D Modeler & Animator** | 🎵 **Music Enthusiast**  
+🎮 **Game Developer** | 🌐 **Web Developer** | 🎨 **3D Modeler & Animator**
 
 ---
 
@@ -21,13 +21,13 @@ While many of my projects are small in scope or works in progress, each one refl
 ## 🛠️ Tools & Technologies  
 
 ### Programming Languages:  
-- HTML, CSS, JavaScript, TypeScript, C, C++, C#, Python, Java
+- HTML, CSS, JavaScript, TypeScript, C, C++, C#, Python
 
 ### Frameworks & Platforms:  
 - Node.js, Unity  
 
 ### Design & 3D Tools:  
-- Blender  
+- Blender, GIMP  
 
 ### Music Tools:  
 - MPC Beats  
