@@ -1,10 +1,10 @@
 # 👋 Hi, I'm **Not The Real 1ne**  
 
-🎮 **Game Developer** | 🌐 **Web Developer** | ⚙️ **Programmer** | 🎨 **3D Modeler & Animator**
+🎮 **Game Developer** | ☕ **Java Programmer** 
 
 ---
 
-I am an intermediate developer. My work spans web development, game development, 3D modeling and animation. 
+I am an intermediate developer. My work spans game development, messing around with code, and whatever else makes me happy.
 While many of my projects are small in scope or works in progress, each one helped me learn something new.  
 
 ## 🚀 Professional Goals  
