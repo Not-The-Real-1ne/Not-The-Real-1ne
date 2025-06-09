@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Not The Real 1ne**  
 
-🎮 **Game Developer** | ☕ **Java Programmer** 
+🎮 **Game Developer** | ☕ **Java Programmer** | 💻 Web Developer
 
 ---
 
